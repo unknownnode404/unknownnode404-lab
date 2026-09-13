@@ -9,3 +9,7 @@ This change exists only on my experiment branch.
 ## GitHub Workflow
 
 Learning branches, remotes, and pull requests.
+
+## Fetch Experiment
+
+Testing how git fetch works.
