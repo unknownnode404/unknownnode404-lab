@@ -12,5 +12,4 @@ Learning branches, remotes, and pull requests.
 
 ## Fetch Experiment
 
-This change comes from main.
-
+I resolve conflicts. :) 
